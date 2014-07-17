@@ -1,4 +1,5 @@
 --Fonts\\ARIALN.TT ... Fonts\\FRIZQT__.TTF ... Fonts\\skurri.ttf ... Fonts\\MORPHEUS.ttf
+--bafana
 LFMAddon = {}
 --Slash commands
 SLASH_LFM1,SLASH_LFM2 = '/lfm','/lookingformore';
