@@ -321,6 +321,7 @@ function LFMAddon:SendButt_OnClick()
     end
     --print("To channel:".. chan .." {rt1}LookingForMore "..run..vystup..achiv.." --LFMAddon")
     -- hafafg
+    --change1
 end
 
   
