@@ -320,9 +320,6 @@ function LFMAddon:SendButt_OnClick()
       print("|c00ffff00LFMAddon: You can't send message to channel 0.")
     end
     --print("To channel:".. chan .." {rt1}LookingForMore "..run..vystup..achiv.." --LFMAddon")
-    -- hafafg
-    --change1
-    --change2
 end
 
   
