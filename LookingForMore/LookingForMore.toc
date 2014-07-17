@@ -1,0 +1,7 @@
+## Interface: 40300
+## Title: LookingForMore
+## Notes: Useful addon that helps you to create the ideal group quickly
+## Version: 1.00
+## Author: FinalL
+## SavedVariables: LFMOptions
+LookingForMore.lua
